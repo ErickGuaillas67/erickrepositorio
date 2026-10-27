@@ -5,3 +5,7 @@ Estoy aprendiendo Git y GitHub.
 
 ## Objetivo
 Aprender a controlar versiones.
+
+##Lo que aprendí
+Como hacer un repositorio
+Como usar git
